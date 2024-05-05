@@ -22,7 +22,7 @@
         <tr>            
             <td>              
                 <div>
-                    <label class="prenom" for="prenom">Prenom</label>
+                    <label for="prenom">Prenom</label>
                     <input type="text" id="prenom" name="prenom" value="<?php echo $donnees['prenom'];?>"   placeholder="<?php echo $donnees['prenom'];?>"/>
                 </div>
                 <div>
