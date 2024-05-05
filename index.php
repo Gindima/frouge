@@ -21,7 +21,7 @@
         <tr>            
             <td>              
                 <div>
-                    <label>Prenom</label>
+                    <label class="prenom">Prenom</label>
                    <p><?php echo $donnees['prenom'];?></p> 
                 </div>
                 <div>
